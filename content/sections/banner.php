@@ -5,14 +5,15 @@
                             <h1><?php echo $titulo; ?></h1>
                             <p><?php echo $subtitulo; ?></p>
                             <a href="#" class ="btn" data-toggle="modal" data-target="#downloads"> <?php echo $cabeceraBotones ?></a>
+                            <a href="https://www.luxantdigitalbank.com/get-referral.php" class ="btn" ><?php echo $referral; ?></a>
+                            <a class="btn" href="documents/<?php echo $buttonLink; ?>/Trading-bot-<?php echo $buttonLink; ?>.pdf" target="_blank">TRADING BOT</a>
                             <a class="btn btn-play video-popup" href="https://www.youtube.com/watch?v=i5ceyVrcnNw">
                                 <span>
                                     <i class="fas fa-play"></i>
                                 </span> <?php echo $playVideo; ?>
                             </a>
                             
-                            <a href="https://www.luxantdigitalbank.com/get-referral.php" class ="btn" ><?php echo $referral; ?></a>
-                            <a class="btn" href="documents/<?php echo $buttonLink; ?>/Trading-bot-<?php echo $buttonLink; ?>.pdf" target="_blank">Trading Bot</a>
+
                         </div>
                         <!-- End of .banner-txt -->
                     </div>
