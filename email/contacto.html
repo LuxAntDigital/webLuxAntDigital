@@ -1,0 +1,10 @@
+<head></head>
+<body>
+    <form action='send_form_email.php' method='post' name='contactForm'>
+        <input name='nombre' value='nombre' onblur='if(this.value == "") {this.value ="nombre";}' onfocus='if(this.value == "nombre") {this.value = "";}' />
+        <input name='email' value='email' onblur='if(this.value == "") {this.value ="email";}' onfocus='if(this.value == "email") {this.value = "";}' />
+        <input name='asunto' value='Asunto' onblur='if(this.value == "") {this.value ="Asunto";}' onfocus='if(this.value == "Asunto") {this.value = "";}' />
+        <textarea rows='5' cols='45' name='mensaje' onblur='if(this.value == "") {this.value ="Mensaje";}' onfocus='if(this.value == "Mensaje") {this.value = "";}'>Mensaje</textarea>
+        <input type='submit' name='enviar' value='Enviar' />
+    </form>
+</body>
