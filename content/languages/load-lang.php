@@ -1,6 +1,7 @@
 <?php 
 error_reporting(0);
 session_start();
+//$langSelect = "En";
 $langPanel = "EN";
 // Comprobamos la variable get
 if (@$_GET["lang"]) { 

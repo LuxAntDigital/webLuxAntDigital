@@ -41,38 +41,40 @@ $language = "ru"; //NO TOCAR ESTA LÍNEA - RIESGO DE MAL FUNCIONAMIENTO
 
 //HEAD - Cabecera con metas y Título que muestra el navegador
 //===============================================================================
-$metaDescription = "Lux Ant Digital ICO - The Decentralized future of the new Electronic Banking";
-$metaKeywords = "token, buy tokens, bank, cryptocurrency, ICO, whitepaper, Alux, Lux, Lux Ant Digital, Lux Ant Digital Bank, Investment, pre-sale, presale, Cryptocurrency Bank";
-$headTitle = "Lux Ant Digital ICO - The Decentralized future of the new Electronic Banking";
+$metaDescription = "Мы первый ICO, который ищет альтернативу традиционному банковскому делу, мы боремся за право всех.
+Lux Ant Digital возвращает власть людям с технологией Blockchain и Smart Contract.
+Мы работаем, чтобы жить, мы не живем, чтобы работать!";
+$metaKeywords = "банка, криптовалюта, ICO, белая бумага, Alux, Lux, Lux Ant Digital, Lux Ant Digital Bank, инвестиции, предварительная продажа, предпродажная";
+$headTitle = "Lux Ant Digital - Децентрализованное будущее нового электронного банкинга";
 
 //-------------------------------------------------------------------------------
 
 //NAVBAR - Barra de navegación del sitio web
 //===============================================================================
-$features = "Features";
-$services = "Services";
-$roadmap = "Roadmap";
-$about = "About";
-$team = "Team";
-$tokens = "Tokens";
-$blog = "Blog";
-$contact = "Contact";
+$features = "ГЛАВНАЯ";
+$services = "услуги";
+$roadmap = "Карта маршрута";
+$about = "о нас";
+$team = "Команда";
+$tokens = "Tокенов";
+$blog = "блог";
+$contact = "контакт";
 
-$buybutton = "BUY TOKENS";
+$buybutton = "ПОКУПАЙТЕ Tокенов";
 
 //-------------------------------------------------------------------------------
 
 //BANNER - Página que se muestra tras la carga del sitio
 //===============================================================================
-$titulo = "НОВАЯ ЭЛЕКТРОННАЯ БАНКОВСКАЯ СИСТЕМА НА BLOCKCHAIN ТЕХНОЛОГИИ";
-$subtitulo = "We are the first ICO that seeks the alternative to traditional banking, we fight for the right of all.
-Lux Ant Digital gives back the power to the people with the Blockchain and Smart Contract technology.
-We work to live, we do not live to work!";
-$cabeceraBotones = "DOWNLOAD DOCUMENTS FROM ICO";
-$playVideo = "PLAY VIDEO";
+$titulo = "Децентрализованное будущее нового электронного банкинга";
+$subtitulo = "Мы первый ICO, который ищет альтернативу традиционному банковскому делу, мы боремся за право всех.
+Lux Ant Digital возвращает власть людям с технологией Blockchain и Smart Contract.
+Мы работаем, чтобы жить, мы не живем, чтобы работать!";
+$cabeceraBotones = "Загрузите нашу информацию";
+$playVideo = "Проиграть видео";
 $referral = "REFERRAL";
 
-$countdownTitle = "$0.12 !! THE TOKENS PRE SALE STARTS IN";
+$countdownTitle = "$0.06 !! ПРОДАЖА НАЧИНАЕТСЯ В";
 $capital = "soft cap 10M - hard cap 25M";
 $promotion = "Buy Tokens in August only cost $0.05";
 $smallLetters = "Sold Tokens: 20.030.000";
@@ -82,158 +84,179 @@ $payMethod = "WE ACCEPT THIS PAY METHODS";
 
 //FEATURES - Las ventajas de tener Tokens ALUX
 //===============================================================================
-$benefictsTitle =  "Benefits of Using Our Solution";
-$benefictsSubtitle = "The development of the ALUX BANK project for the creation of a cryptocurrency bank will give you the following advantages at buy tokens";
+$benefictsTitle =  "Преимущества наших решений";
+$benefictsSubtitle = " Развитие проекта ALUX BANK предоставляет нам следующие возможности";
 
-$electronicBankingPlatform = "Electronic Banking Platform";
-$contentElectronicBankingPlatform = "You can build close relationships with customers, suppliers, family, etc. and control the experience of buying, selling, sending money and / or digital assets from login to the end of the transaction. Lux Ant Digital Smart Contract apply where intermediaries do not exist and thus reduce service costs.";
+$electronicBankingPlatform = "Электронная банковская платформа";
+$contentElectronicBankingPlatform = "С помощью платформы Lux Digital Ant, используемой в качестве электронного банкинга, вы можете выстраивать отношения с клиентами, поставщиками, родственниками, полностью контролируя процесс оплаты и списания средств, перевода денег и/или цифровых активов, от входа в систему и до конца транзакции.";
 
-$appMobile = "App Mobile";
-$contentAppMobile = "With the APP Alux Bank, you will be able to carry out negotiations such as the sending of money, saving, collections of lists or other payments, currency conversions, on-line purchases and requests of micro-lending's, as well as others.";
+$appMobile = "Мобильное приложение";
+$contentAppMobile = "Через мобильное приложение «Alux Bank» , вы можете выполнять процедуры перевода денег и сбережений, выполнять услуги по зачислению заработной платы, совершать другие платежи, а также конвертировать валюту, совершать покупки в режиме онлайн, осуществлять микрокредитование и многое другое.";
 
-$paymentCard = "Payment Card";
-$contentPaymentCard = "The innovative emission of debit card payment, it allows us to give the approach to design a simpler card. This action is functional, without the need of a chip and/or a pin, using a simple QR code that Alux Bank links directly with said bank account.";
+$paymentCard = "Платежная карта";
+$contentPaymentCard = "Выпуск инновационной дебетовой карты в виде простой и более функциональной, не требующий чип и пин, использующей простой «QR» код, который связывает его непосредственно с вашим банковский счетом Alux Bank";
 
-$saveMoney = "Save Money";
-$contentSaveMoney = "With the ease of access to an account offered by Alux Bank, you can start saving and see how your money grows day by day in our cryptocurrency bank.";
+$saveMoney = "Экономия денег";
+$contentSaveMoney = "С легкостью доступа к банковскому счету, предлагаемому «Alux Bank», вы можете начать экономить и посмотреть, как ваши деньги растут изо дня в день.";
 
-$microLoans = "Micro-Loans Public &amp; Private";
-$contentMicroLoans = "Which we want to give the capital to other users to be able to proceed with the lending or investing in some published project, it will be able to be done by means of the Smart Contract integrated inside Alux Bank's platform.";
+$microLoans = "Микрозаймы (корпоративные и частные)";
+$contentMicroLoans = "Микрозаймы, которые мы хотим предоставить другим пользователям, чтобы иметь возможность продолжить кредитование или инвестировать в какой-либо опубликованный проект, это будет доступно с помощью Smart Contract, интегрированного в платформу Alux Bank.";
 
-$sendMoney = "Send &amp; Receive Money";
-$contentSendMoney = "With the platform of Digital Lux Ant presented as an Electronic Banking, you will be able to begin relationships with your clients, suppliers, relatives, etc, and to control the experience of purchase, sale, sending of money and/or digital assets from the beginning of the session until the end of the transaction.";
+$sendMoney = "Отправление и получение денег";
+$contentSendMoney = "С платформой Digital Lux Ant, представленной как электронный банк, вы сможете работать с вашими клиентами, поставщиками, родственниками и т. д., а также контролировать покупки, продажи, отправки денег и / или цифровые активы с начала операции и до конца сделки.";
 
-$currencyConversion = "Currency Conversion";
-$contentCurrencyConversion = "From our ATMs, partner shops or Alux Bank mobile APP, you can make conversions of any currency, instantly and with the minimum commission.";
+$currencyConversion = "Обмен валюты";
+$contentCurrencyConversion = "Вы можете обменять любую валюту в наших банкоматах, в магазинах-партнерах или в мобильном приложении Alux Bank , моментально и с минимальной комиссией.";
 
-$ownATMNetwork = "Own ATM Network &amp; Collaboration with Stores";
-$contentOwnATMNetwork = "The main idea of causing the growth of the Alux banking network is a way of promoting its use, close contracts with businesses and collaborating companies for the issuance of cards and recharges thereof, and even that they have our ATMs in their premises.";
+$ownATMNetwork = "Собственная сеть банкоматов и сотрудничество с магазинами";
+$contentOwnATMNetwork = "Основной идеей, вызывающей рост банковской сети Alux , является способ продвижения ее использования, заключение контрактов с предприятиями и сотрудничающими компаниями на выпуск и перевыпуск карт, а также то, что у них есть наши банкоматы в их помещениях.";
 
 //-------------------------------------------------------------------------------
 
 //SERVICES - Servicios que ofrecerá ALUX Bank
 //===============================================================================
-$servicesTitle = "Current Services";
+$servicesTitle = "ТЕКУЩИЕ УСЛУГИ";
 $servicesSubtitle = "If you buy tokens can obtains these services when ICO ends";
 
-$menuCustody = "Custody";
-$menuTrading = "Trading Bot";
-$menuConsultory = "Consultory &amp; Advisor";
-$menuManufacture = "Manufacture of ATM's";
-$menuTokenDevelopment = "Token Development";
+$menuCustody = "ОПЕКА";
+$menuTrading = "ТОРГОВЫЙ Бот";
+$menuConsultory = "КОНСУЛЬТАЦИЯ И СОВЕТНИК";
+$menuManufacture = "ПРОИЗВОДСТВО ATM (БАНКОМАТОВ)";
+$menuTokenDevelopment = "РАЗВИТИЕ TOKEN";
 
-$custodyPoint1 = "Propriety. Your product is yours, it won’t be part of Lux Ant Digital assets, it won’t be borrowed neither rented nor as a warrant of any operation. ";
-$custodyPoint2 = "Security. A fraction of your digital assets keys will be deposit into a bank entities, achieving a higher security and conﬁdence with our customers. ";
-$custodyPoint3 = "Accuracy. Lux Ant Digital custody exactly the products our customers have deposited and assuring not to handle the product under any circumstances.";
-$custodyPoint4 = "Segregation. Your fund will be isolate from other customers and from Lux Ant Digital funds.";
-$custodyPoint5 = "Transparency. Everybody could handle their funds are deposited in their wallet by check in the Blockchain.";
-$custodyPoint6 = "Privacy. Lux Ant Digital won’t disseminate to anybody the transaction and will manage the information with all discretion.";
-$custodyPoint7 = "Selling. Everybody could request sell their funds in case of an immediately funds needing. There is also the possibility to re buy the funds at the moment price quoted.";
-$custodyPoint8 = "Fix tariﬀ. Lux Ant Digital applies the same rate in spite of the amount of funds under custody.";
+$custodyPoint1 = "Собственность: ваш продукт является вашей собственностью, он не станет частью баланса Lux Ant Digital, он не будет сдаваться в аренду, или использоваться в качестве гарантии какой-либо операции.";
+$custodyPoint2 = "Безопасность: часть ключей ваших цифровых активов будут находится на депозитах в банке, обеспечивая нашим клиентам больше безопасности и уверенности. ";
+$custodyPoint3 = "Пунктуальность : Lux Ant Digital хранит те средства , которые вы депонировали и обещают не манипулировать ими никоим образом.";
+$custodyPoint4 = "Обособление : ваши средства будут оставаться изолированы от других клиентов, а также от фонда Lux Ant Digital.";
+$custodyPoint5 = "Прозрачность: вы можете самостоятельно проверить Блокчейн всякий раз, когда захотите. Убедитесь сами, ваши средства останутся на вашем кошельке.";
+$custodyPoint6 = "Конфиденциальность: Lux Ant Digital не будет распространять информацию о сделках, управляя транзакцией со всей осторожностью.";
+$custodyPoint7 = "Продажа: вы можете запросить продажу своих средств, если вам необходим немедленный капитал докупить его в момент роста цены.";
+$custodyPoint8 = "Фиксированная ставка: Lux Ant Digital гарантирует фиксированную ставку независимо от количества активов на хранении.";
 
-$tradingPoint1 = "Check by yourself when and wherever you want, out Boot is working constantly placing and executing orders.";
-$tradingPoint2 = "Generate incomes besides the market trend.";
-$tradingPoint3 = "Realize our low fares because saving on human costs.";
-$tradingPoint4 = "Let us our Boot working for you; developed with the best algorithms and strategies to take highest advantages.";
-$tradingPoint5 = "Our “Negative Balance Protection” means you cannot lose more than you have invested.";
-$tradingPoint6 = "Receive each month your incomes in your wallet or directly into your bank account.";
-$tradingPoint7 = "We oﬀer 24/7 support.";
-$tradingPoint8 = "You have only to decide “how many” and “when” and your digital assets will be generating incomes in less than a week.";
+$tradingPoint1 = "Проверяйте личные пароли, в любое время и где вы хотите. Наш БОТ работает безостановочно, постоянно выполняя заказы.";
+$tradingPoint2 = "Получайте прибыль, даже если идёт падение рынка.";
+$tradingPoint3 = "Низкие комиссионные обусловлены экономией ручного труда.";
+$tradingPoint4 = "Пусть наш БОТ работает для вас; разработанный с использованием лучших алгоритмов и стратегий, чтобы получать больше преимуществ.";
+$tradingPoint5 = "Получайте свой доход каждый месяц на свой кошелек или непосредственно на свой банковский счет.";
+$tradingPoint6 = "Мы обеспечиваем круглосуточную поддержку.";
+$tradingPoint7 = "Наша защита от отрицательного баланса означает, что вы не сможете потерять больше, чем инвестируете.";
+$tradingPoint8 = "Решите только «сколько» и «когда», и менее чем за неделю ваши цифровые активы будут получать прибыль.";
 
-$consultoryPoint1 = "We have developed the consulting platform for anyone who wants to be guided in a world as novel as digital assets. We oﬀer several advisory ranges for those clients who wish to be constantly informed and warned of unexpected movements.";
-$consultoryPoint2 ="Choose the option that best suits you and enjoy fast solutions and advantages before any market innovation.";
-$consultoryPoint3 = "Bronze Rate, Silver Rate &amp; Gold Rate.";
+$consultoryPoint1 = "Мы разработали платформу для консультаций для всех, кто хочет ориентироваться в мире цифровых активов. Мы предлагаем несколько ";
+$consultoryPoint2 = "консультационных диапазонов для тех клиентов, которые хотят быть постоянно информированы и предупреждены о неожиданных движениях. Выберите вариант, который вам больше всего подходит, и наслаждайтесь быстрыми решениями и преимуществами перед любым изменением на рынке.";
+$consultoryPoint3 = "Бронзовый тариф, серебряный тариф и золотой тариф.";
 
-$contentManufacture ="Currently, we market two models of ATMs that incorporate the highest technological advances, both in physical security and in computer security. They diﬀer in their physical appearance, being identical in software functionality and ticket processing capacity.";
+$contentManufacture ="В настоящее время мы продаем две модели банкоматов, которые включают в себя самые высокие технологические достижения, как в технологической , так и в компьютерной безопасности. Они отличаются только своим внешним видом, будучи идентичны в функциональности программного обеспечения и возможности обработки запросов.";
 
-$subtitleTokenDevelopment = "Specialized in token development";
-$contentTokenDevelopment = "Nowadays, apart from cryptocurrencies there are virtual stakes of some companies called Token. Tokens are Smart Contracts of Ethereum’s net. Token is conﬁgured speciﬁcally of a customer order and under four working units.";
-$packTokenDevelopment1 = "Pack 1; Token development";
-$packTokenDevelopment2 = "Pack 2; Token promotion on company’s website and spreading on Social Media + Technical support to token owner and to the investors + Digital Marketing for a fee.";
-$packTokenDevelopment3 = "Pack 3; Technical support to Token’s owner and to the investors + Develop a corporative website + Maintenance.";
-$packTokenDevelopment4 = "Pack 4: Total pack.";
+$subtitleTokenDevelopment = "Специализируемся на разработке токенов";
+$contentTokenDevelopment = "В настоящее время, помимо криптовалюты, существуют виртуальные пакеты некоторых компаний под названием Token. Токены - это смарт-контракты сети Ethereum. Token настроен специально под клиентский заказ и имеют четыре альтернативы.";
+$packTokenDevelopment1 = "Пакет 1: Разработка токенов";
+$packTokenDevelopment2 = "Пакет 2: Продвижение токенов на веб-сайте компании и распространение на Social Media + Техническая поддержка владельцу токенов и инвесторам + Цифровой маркетинг за определенную плату.";
+$packTokenDevelopment3 = "Пакет 3: Техническая поддержка владельца Token и инвесторов + Разработка корпоративного сайта + Техническое обслуживание.";
+$packTokenDevelopment4 = "Пакет 4: Общий пакет.";
 
-$buttonMoreInfo = "MORE INFO";
+$buttonMoreInfo = "Дополнительная информация"; 
+$buttonLink = "english"; // NO TOCAR.
 
 //-------------------------------------------------------------------------------
 
 //ROADMAP - Trayectoria del proyecto
 //===============================================================================
-$roadmapTitle = "Roadmap ICO";
+$roadmapTitle = "КАРТА РАЗВИТИЯ";
 
-$roadmapDate1 = "2018: 1.000.000$";
-$dateObjetive1 = "EDE Constitution";
-$dateObjetive2 = "External managements procedures";
-$dateObjetive3 = "Bounty Program";
-$dateObjetive4 = "Whitepaper V2";
-$dateObjetive5 = "Softwares &amp; Patents";
+$roadmapDate1 = "1/2 КBAPT 2018 г.";
+$dateObjetive1 = "Решение правовых вопросов";
+$dateObjetive2 = "Первоначальный дизайн продукта";
+$dateObjetive3 = "Консультанты";
+$dateObjetive4 = "Структура предложения токена, веб-сайт";
+$dateObjetive5 = "Проектный документ V1 & V2";
 
-$roadmapDate2 = "2019: 10.000.000$";
-$date2Objetive1 = "Electronic Banking Platform";
-$date2Objetive2 = "Alux Bank APP Development";
-$date2Objetive3 = "Issuance of Payments Solutions";
-$date2Objetive4 = "Alux Bank Card Payment";
-$date2Objetive5 = "External Management Procedures";
-$date2Objetive6 = "Intern Social Network";
-$date2Objetive7 = "I+D+I Plan";
-$date2Objetive8 = "Dividends to capitalist partners";
+$roadmapDate2 = "3/4 КBAPT 2018 г.";
+$date2Objetive1 = "Написание Устава EDE";
+$date2Objetive2 = "Процедура внешнего управления ";
+$date2Objetive3 = "Баунти-программа ";
+$date2Objetive4 = "Проектный документ, V3";
+$date2Objetive5 = "Airdrop";
+$date2Objetive6 = "ПО, патенты";
 
-$roadmapDate3 = "2020: 25.000.000$";
-$date3Objetive1 = "Regulated global ﬁnancial manager";
-$date3Objetive2 = "Widspread deployments with more partners and developers";
-$date3Objetive3 = "Collaboration with ﬁnancial entities";
+$roadmapDate3 = "1/2 КBAPT 2019 г.";
+$date3Objetive1 = "Платформа электронного банкинга";
+$date3Objetive2 = "Разработка приложения Alux Bank";
+$date3Objetive3 = "Выпуск платежных решений";
+$date3Objetive4 = "Карта оплаты Alux Bank";
 
-$roadmapDate4 = "2021: CONTINGENCY PLAN";
-$date4Obetive = 'We follow a management of continuity of business, in this way, to process the achievement of the capacity and maintenance of our company. It shapes a vital part of the safety management of information systems, planned and proven, that now knows itself more commonly as cybernetic safety. When we speak about continuity of the business we refer to the aptitude to survive the "bad things" that can have a negative impact on the company.';
+$roadmapDate4 = "3/4 КBAPT 2019 г.";
+$date4Objetive1 = "Процедуры внешнего управления ";
+$date4Objetive2 = "Внутренняя социальная сеть ";
+$date4Objetive3 = "План I+D+i";
+$date4Objetive4 = "Выплата дивидендов";
+
+$roadmapDate5 = "1/2 КBAPT 2020 г.";
+$date5Objetive1 = "Регулируемый финансовый менеджер ";
+$date5Objetive2 = "Широкое развертывание с большим количеством партнеров и";
+
+$roadmapDate6 = "3/4 КBAPT 2020 г.";
+$date6Objetive = "Сотрудничество с финансовыми учреждениями";
+
+$roadmapDate7 = "2021 г.";
+$date7Objetive = 'Мы следим за обеспечением бесперебойности бизнеса, чтобы достичь максимального потенциала нашей компании.';
+
+$roadmapDate8 = "+ 2022 г.";
+$date8Objetive = "Это формирует жизненно важную часть управления безопасностью проверенных  систем, кибернетической безопасностью.";
+
+$roadmapDate9 = "РЕЗЕРВНЫЙ ПЛАН";
+$date9Objetive = "планируемых и информационных ныне именуемое Когда мы говорим о бесперебойности бизнеса, мы говорим о способности выжить при «плохих вещах», которые могут оказать негативное влияние на компанию.";
 
 //-------------------------------------------------------------------------------
 
 //ADVANTAGES - Ventajas que obtendrás tras terminar la ICO
 //===============================================================================
-$advantagesTitle = "ALUX TOKENS ADVANTAGES";
-$advantagesSubtitle = "If you have ALUX tokens or buy tokens";
+$advantagesTitle = "Преимущества наличия токенов ALUX";
+$advantagesSubtitle = "Если у вас есть Alux токенов";
 
-$quantityTokens1 = "100 to 10.000 Tokens";
-$timeQuantity1 = "3"; $quantityDate1 = "months";
-$content1Advantage1 = "20% bonus on consultory services.";
-$content1Advantage2 = "Free custody of your digital assets.";
-$content1Advantage3 = "10% discount on ALUX BANK services.";
+$quantityTokens1 = "100 to 10,000 токенов";
+$timeQuantity1 = "3"; $quantityDate1 = "месяца";
+$content1Advantage1 = "20% бонус в консалтинговых услугах.";
+$content1Advantage2 = "бесплатное oпека ваших цифровых активов.";
+$content1Advantage3 = "10% скидка на услуги ALUX BANK.";
 
-$cuantityTokens2 = "10.001 to 100.000 Tokens";
-$timeQuantity2 = "6"; $quantityDate2 = "months";
-$content2Advantage1 = "Access to our manual Trading Bot.";
-$content2Advantage2 = "35% bonus on consultory services.";
-$content2Advantage3 = "Free custody of your digital assets.";
-$content2Advantage4 = "10% discount on ALUX BANK services.";
+$cuantityTokens2 = "10,001 to 100,000 токенов";
+$timeQuantity2 = "6"; $quantityDate2 = "месяца";
+$content2Advantage1 = "Доступ к нашему руководство ТОРГОВЫЙ Бот.";
+$content2Advantage2 = "35% бонус в консалтинговых услугах.";
+$content2Advantage3 = "бесплатное oпека ваших цифровых активов.";
+$content2Advantage4 = "10% скидка на услуги ALUX BANK.";
 
-$cuantityTokens3 = "100.001 to 1.000.000 Tokens";
-$timeQuantity3 = "2"; $quantityDate3 = "years";
-$content3Advantage1 = "Access to our Trading Bot automated + IA with 3% monthly earnings.";
-$content3Advantage2 = "50% bonus on consultory services.";
-$content3Advantage3 = "Free custody of your digital assets.";
-$content3Advantage4 = "10% discount on ALUX BANK services.";
+$cuantityTokens3 = "100,001 to 1,000,000 токенов";
+$timeQuantity3 = "2"; $quantityDate3 = "лет";
+$content3Advantage1 = "Доступ к нашему ТОРГОВЫЙ Бот автоматизированный + IA c 3% ежемесячным заработком.";
+$content3Advantage2 = "Annual fixed dividends of 10%";
+$content3Advantage3 = "50% бонус в консалтинговых услугах.";
+$content3Advantage4 = "бесплатное oпека ваших цифровых активов.";
+$content3Advantage5 = "10% скидка на услуги ALUX BANK.";
 
-$cuantityTokens4 = "1.000.001 or more Tokens";
-$timeQuantity4 = "Forever";
-$content4Advantage1 = "You will receive shares of our company.";
-$content4Advantage2 = "Access to our Trading Bot automated + IA with 5% monthly earnings.";
+$cuantityTokens4 = "1,000,001 или более токенов";
+$timeQuantity4 = "навсегда";
+$content4Advantage1 = "Вы получите акции нашей компании.";
+$content4Advantage2 = "Доступ к нашему ТОРГОВЫЙ Бот автоматизированный + IA c 5% ежемесячным заработком.";
+$content4Advantage3 = "Annual fixed dividends of 20%";
 
 //-------------------------------------------------------------------------------
 
 //ABOUT US - Sobre el proyecto Lux Ant Digital
 //===============================================================================
-$aboutTitle = "About Us";
-$aboutLine1 = "Lux Ant S.L. is a technological startup that focuses on projects and developments related to Blockchain and Smart Contract.";
-$aboutLine2 = "The philosophy of the company is based on the following principles:";
-$aboutPrinciples1 = "We are the future: the palpable coin we use on a daily basis will soon disappear from our pockets.";
-$aboutPrinciples2 = "The exclusion of a mediator: during an economic transaction of two it isn’t necessary to have a third member.";
-$aboutPrinciples3 = "The efficiency is on the increase: pay instantly without delays.";
-$aboutPrinciples4 = "Improves the economy: we back up the alternative economy which gives back the power to the people.";
+$aboutTitle = "O НАС";
+$aboutLine1 = "Lux Ant S.L. является технологическим стартапом, который фокусируется на проектах и разработках, связанных с цифровыми валютами.";
+$aboutLine2 = "Философия компании основана на следующих принципах:";
+$aboutPrinciples1 = "Мы - будущее: ощущаемая монета, которую мы используем ежедневно, скоро исчезнет из наших карманов. ";
+$aboutPrinciples2 = "Исключение посредника: во время экономической сделки между двумя, третий человек не требуется . ";
+$aboutPrinciples3 = "Эффективность возрастает: платите мгновенно без задержек. ";
+$aboutPrinciples4 = "Улучшает экономику: мы поддерживаем альтернативную экономику, которая возвращает власть народу. ";
 //-------------------------------------------------------------------------------
 
 //TEAM PLAYERS - Nuestro equipo y advisors
 //===============================================================================
-$teamTitle = "Team Players";
+$teamTitle = "Команда";
 $teamSubtitle = "The team the team that will transform this ICO in a Cryptocurrency Bank";
 
 $operatingTeam = "OPERATING TEAM";
@@ -311,83 +334,83 @@ $advisorsDescription8 = "Operations management";
 
 //TOKENS - Distribución de los Tokens
 //===============================================================================
-$tokenTitle = "Token Distribution";
+$tokenTitle = "НАЗНАЧЕНИЕ ТОКEHОВ";
 
 //Token Allocations
-$tokenAllocations = "Token Allocations";
-$tokenValue1 = "Public Sale: 50%";
-$tokenValue2 = "Team: 15%";
-$tokenValue3 = "Advisors: 5%";
-$tokenValue4 = "Bounties: 2%";
+$tokenAllocations = "РАСПРЕДЕЛЕНИЕ ТОКЕНОВ";
+$tokenValue1 = "Общественная продажа: 50%";
+$tokenValue2 = "Команда: 15%";
+$tokenValue3 = "Советники: 5%";
+$tokenValue4 = "Баунти: 2%";
 $tokenValue5 = "POP: 10%";
-$tokenValue6 = "Reserve: 18%";
+$tokenValue6 = "Pезерв: 18%";
 
 //Use of Proceeds
-$tokenProceeds = "Use of Proceeds";
-$tokenProceedsValue1 = "Software Development: 40%";
-$tokenProceedsValue2 = "Marketing &amp; I+D+i: 20%";
-$tokenProceedsValue3 = "ETH Reserve: 20%";
-$tokenProceedsValue4 = "Legal Process Expenses: 5%";
-$tokenProceedsValue5 = "Comunity Development: 7%";
-$tokenProceedsValue6 = "Administration Expenses: 8%";
+$tokenProceeds = "ИСПОЛЬЗОВАНИЕ ДОХОДОВ";
+$tokenProceedsValue1 = "Разработка программного обеспечения: 40%";
+$tokenProceedsValue2 = "Маркетинг и I+D+i: 20%";
+$tokenProceedsValue3 = "ETH резерв: 20%";
+$tokenProceedsValue4 = "Расходы по юридическому процессу: 5%";
+$tokenProceedsValue5 = "Развитие сообщества: 7%";
+$tokenProceedsValue6 = "Расходы администрации: 8%";
 
 //-------------------------------------------------------------------------------
 
 //TOKEN PRICE - Tabla de valores del Token según vaya evolucionando la ICO
 //===============================================================================
 
-/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-/**/                                                        $priceTitle = "Token Price";                                                                                          /**/
-/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-/**/                                                                                                       $tokenStarts = "Token Starts: 01/09/2018 - Token Ends: 1/11/2018";     /**/  
-/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-/**/ $rowTitle1 = "Original Price"; /**/ $row1Column1 = "0,20";           /**/ $row1Column2 = "0,20";            /**/ $row1Column3 = "0,20";    /**/ $row1Column4 = "0,20";       /**/ 
-/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/      
-/**/ $rowTitle2 = "Discount %";     /**/ $row2Column1 = "70%";            /**/ $row2Column2 = "40%";             /**/ $row2Column3 = "10%";     /**/ $row2Column4 = "0%";         /**/ 
-/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/      
-/**/ $rowTitle3 = "Token Price";    /**/ $row3Column1 = "0,06";           /**/ $row3Column2 = "0,12";            /**/ $row3Column3 = "0,18";    /**/ $row3Column4 = "0,20";       /**/ 
-/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-/**/ $rowTitle4 = "Phases";         /**/ $row4Column1 = "Token Starts";   /**/ $row4Column2 = "Phase 2";         /**/ $row4Column3 = "Phase 3"; /**/ $row4Column4 = "Token Ends"; /**/ 
-/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-/**/ $rowTitle5 = "Timeline";       /**/ $row5Column1 = "September 1-15"; /**/ $row5Column2 = "September 16-30"; /**/ $row5Column3 = "October"; /**/ $row5Column4 = "November";   /**/ 
-/*----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/**/                                                        $priceTitle = "Token Price";                                                                                                  /**/
+/*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/**/                                                                                                    $tokenStarts = "IНАЧАЛО ПРОДАЖИ 01/09/18 - КОНЕЦ ПРОДАЖИ: 30/11/2018";            /**/  
+/*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/**/ $rowTitle1 = "Первоначал ьная цена"; /**/ $row1Column1 = "$0,20";          /**/ $row1Column2 = "$0,20";           /**/ $row1Column3 = "$0,20";   /**/ $row1Column4 = "$0,20";        /**/ 
+/*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/      
+/**/ $rowTitle2 = "Скидка %";             /**/ $row2Column1 = "70%";            /**/ $row2Column2 = "40%";             /**/ $row2Column3 = "10%";     /**/ $row2Column4 = "0%";           /**/ 
+/*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/      
+/**/ $rowTitle3 = "Токен Цена";           /**/ $row3Column1 = "$0,06";          /**/ $row3Column2 = "$0,12";           /**/ $row3Column3 = "$0,18";   /**/ $row3Column4 = "$0,20";        /**/ 
+/*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/**/ $rowTitle4 = "Фазы";                 /**/ $row4Column1 = "Начало токена";  /**/ $row4Column2 = "Фазы  2";         /**/ $row4Column3 = "Фазы  3"; /**/ $row4Column4 = "конец токена"; /**/
+/*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/**/ $rowTitle5 = "Timeline";             /**/ $row5Column1 = "сентябрь 1-15";  /**/ $row5Column2 = "сентябрь 16-30";  /**/ $row5Column3 = "октябрь"; /**/ $row5Column4 = "ноябрь";       /**/ 
+/*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 //-------------------------------------------------------------------------------
 
 //CONTACT - Información y contacto.
 //===============================================================================
-$contactTitle = "Contact Us";
+$contactTitle = "контакт";
 $contactMail = "info@luxantdigitalbank.com";
 $contactPhone = "925251029";
 $contactAdress = "Calle Italia 113";
 $contactPostal = "Toledo 45005";
 
-$contactMapTitle = "VIEW MAP";
-$contactFollow = "Follow us :";
+$contactMapTitle = "Посмотреть карту";
+$contactFollow = "Следуйте за нами :";
 
-$contactMailFormTitle = "Leave Us a Message";
+$contactMailFormTitle = "Оставьте нам сообщение";
 $contactMailFormFirstName = "First Name";
 $contactMailFormLastName = "Last Name";
 $contactMailFormPhone = "Phone";
 $contactMailFormEmail = "Email";
 $contactMailFormMessage = "Message";
-$buttomSubmitMessage = "SUBMIT YOUR MESSAGE";
+$buttomSubmitMessage = "послать сообщение";
 
 //-------------------------------------------------------------------------------
 
 //FOOTER - Datos generales al final del sitio web
 //===============================================================================
 $footerColumnCompanyTitle = "COMPANY";
-$footerColumnCompanyContent1 = "About";
-$footerColumnCompanyContent2 = "Team";
-$footerColumnCompanyContent3 = "Blog";
-$footerColumnCompanyContent4 = "Contact";
+$footerColumnCompanyContent1 = "O НАС";
+$footerColumnCompanyContent2 = "Команда";
+$footerColumnCompanyContent3 = "блог";
+$footerColumnCompanyContent4 = "контакт";
 
 $footerColumnFundingTitle = "ICO FUNDING";
-$footerColumnFundingContent1 = "Features";
-$footerColumnFundingContent2 = "Product";
-$footerColumnFundingContent3 = "Roadmap";
-$footerColumnFundingContent4 = "Token";
+$footerColumnFundingContent1 = "ГЛАВНАЯ";
+$footerColumnFundingContent2 = "продукт";
+$footerColumnFundingContent3 = "ДОРОЖНАЯ КАРТА";
+$footerColumnFundingContent4 = "Tокенов";
 
 $footerColumnPayMethods = "WE ACCEPT THIS PAY METHODS";
 
@@ -399,9 +422,9 @@ $footerColumnLuxAntDigitalContent4 = "Lux Ant Digital, Profit";
 $footerColumnLuxAntDigitalContent5 = "Lux Ant Digital, Ethereum Wallet";
 
 $footerCopyright = "Copyright &copy; 2018. All rights reserved by";
-$footerTermsandConditions = "Terms &amp; Conditions";
-$footerPrivacyPolicy = "Privacy Policy";
-$footerDisclaimer = "Disclaimer";
+$footerTermsandConditions = "Условия использования";
+$footerPrivacyPolicy = "Политика конфиденциальности";
+$footerDisclaimer = "уведомление правовой";
 
 //-------------------------------------------------------------------------------
 ?>

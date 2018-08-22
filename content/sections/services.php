@@ -22,7 +22,7 @@
                         <div class="tab-pane fade show active" id="product-tab-1" role="tabpanel" aria-labelledby="product-tab-1">
                             <div class="row align-items-center">
                                 <div class="col-md-6">
-                                    <img src="images/products/custody.png" alt="product images" class="img-fluid">
+                                    <img src="images/products/trading.png" alt="product images" class="img-fluid">
                                 </div>
                                 <!-- End of .col-md-6 -->
                                 <div class="col-md-6">
@@ -42,6 +42,7 @@
                                     <!-- End of .o-details-with-title -->
                                 </div>
                                 <!-- End of .col-md-6 -->
+                                <a class="btn btn-primary btn-lg btn-block" style="margin-top: 20px;" href="documents/<?php echo $buttonLink; ?>/Trading-bot-<?php echo $buttonLink; ?>.pdf" target="_blank"><?php echo $buttonMoreInfo; ?></a>
                             </div>
                             <!-- End of .row -->
                         </div>
@@ -49,8 +50,8 @@
 
                         <div class="tab-pane fade" id="product-tab-2" role="tabpanel" aria-labelledby="product-tab-2">
                             <div class="row align-items-center">
-                                <div class="col-md-6 order-md-2 text-right">
-                                    <img src="images/products/trading.png" alt="product images" class="img-fluid">
+                                <div class="col-md-6">
+                                    <img src="images/products/custody.png" alt="product images" class="img-fluid">
                                 </div>
                                 <!-- End of .col-md-6 -->
 
@@ -71,6 +72,7 @@
                                     <!-- End of .o-details-with-title -->
                                 </div>
                                 <!-- End of .col-md-6 -->
+                                <a class="btn btn-primary btn-lg btn-block" style="margin-top: 20px;" href="#contact" target="_blank"><?php echo $buttonMoreInfo; ?></a>
                             </div>
                             <!-- End of .row -->
                         </div>
@@ -93,6 +95,7 @@
                                     <!-- End of .o-details-with-title -->
                                 </div>
                                 <!-- End of .col-md-6 -->
+                                <a class="btn btn-primary btn-lg btn-block" style="margin-top: 20px;" href="#contact"><?php echo $buttonMoreInfo; ?></a>
                             </div>
                             <!-- End of .row -->
                         </div>
@@ -113,6 +116,7 @@
                                         <!-- End of .o-details-with-title -->
                                     </div>
                                     <!-- End of .col-md-6 -->
+                                    <a class="btn btn-primary btn-lg btn-block" style="margin-top: 20px;" href="documents/<?php echo $buttonLink; ?>/ATM-<?php echo $buttonLink; ?>.pdf" target="_blank"><?php echo $buttonMoreInfo; ?></a>
                                 </div>
                                 <!-- End of .row -->
                             </div>
@@ -138,12 +142,12 @@
                                             <!-- End of .o-details-with-title -->
                                         </div>
                                         <!-- End of .col-md-6 -->
+                                        <a class="btn btn-primary btn-lg btn-block" style="margin-top: 20px;" href="#contact"><?php echo $buttonMoreInfo; ?></a>
                                     </div>
                                     <!-- End of .row -->
                                 </div>
                                 <!-- End of .tab-pane -->
                             </br>
-                                <a class="btn btn-primary btn-lg btn-block" href="documents/<?php echo $buttonLink; ?>/Trading-bot-<?php echo $buttonLink; ?>.pdf" target="_blank"><?php echo $buttonMoreInfo; ?></a>
                     </div>
                     <!-- End of .tab-content -->
                 </div>

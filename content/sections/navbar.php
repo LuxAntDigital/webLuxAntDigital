@@ -58,7 +58,7 @@
                                 <a class="dropdown-item" href="index.php?lang=en" <?php echo $langHiddenEn; ?>>En</a>
                                 <a class="dropdown-item" href="index.php?lang=es" <?php echo $langHiddenEs; ?>>Es</a>
                                 <!--<a class="dropdown-item" href="#">Ch</a> -->
-                                <a class="dropdown-item" href="http://luxantdigitalbank.ru" <?php echo $langHiddenRu; ?>>Ru</a>
+                                <a class="dropdown-item" href="index.php?lang=ru" <?php echo $langHiddenRu; ?>>Ru</a>
                             </div>
                             <!-- End of .dropdown-menu -->
                         </div>
