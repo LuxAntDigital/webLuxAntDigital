@@ -1,0 +1,5 @@
+<?php 
+    define('METODO','AES-256-CBC');
+    define('CLAVE_SECRETA','x@vBWzY207');
+    define('SUBCLAVE_SECRETA','442483478');
+?>

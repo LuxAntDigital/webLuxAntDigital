@@ -1,0 +1,12 @@
+<?php 
+require_once('encryption_config');
+
+function desencriptar($cadena){
+    $prefijo = hash('sha256', CLAVE_SECRETA);
+    $sufijo = substr(hash('sha256', SUBCLAVE_SECRETA), 0, 16);
+    
+    $salida = openssl_decrypt(base64_decode($cadena), METODO, $prefijo, 0, $sufijo);
+
+    return $salida;
+}
+?>

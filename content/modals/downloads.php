@@ -21,14 +21,19 @@
                             <a class="btn secondary-btn" id="languages" href="documents/vietnamese/whitepaper-vietnamese.pdf" target="_blank" >VIETNAMESE</a>
                             </br>
                             </br>
-                    <h3>Onepager</h3>
-                            <a class="btn secondary-btn" id="languages" href="documents/english/onepager-english.pdf" target="_blank" >ENGLISH</a>
-                            <a class="btn secondary-btn" id="languages" href="documents/spanish/onepager-spanish.pdf" target="_blank" >SPANISH</a>
-                            </br>
-                            </br>
                     <h3>Token</h3>
                             <a class="btn secondary-btn" id="languages" href="documents/english/token-english.pdf" target="_blank" >ENGLISH</a>
                             <a class="btn secondary-btn" id="languages" href="documents/spanish/token-spanish.pdf" target="_blank" >SPANISH</a>
+                            </br>
+                            </br>
+                    <h3>Litepaper</h3>
+                            <a class="btn secondary-btn" id="languages" href="documents/english/litepaper-english.pdf" target="_blank" >ENGLISH</a>
+                            <a class="btn secondary-btn" id="languages" href="documents/spanish/litepaper-spanish.pdf" target="_blank" >SPANISH</a>
+                            </br>
+                            </br>
+                    <h3>Onepager</h3>
+                            <a class="btn secondary-btn" id="languages" href="documents/english/onepager-english.pdf" target="_blank" >ENGLISH</a>
+                            <a class="btn secondary-btn" id="languages" href="documents/spanish/onepager-spanish.pdf" target="_blank" >SPANISH</a>
                             </br>
                             </br>
                     <h3>Presentation</h3>
@@ -36,11 +41,14 @@
                             <a class="btn secondary-btn" id="languages" href="documents/spanish/presentation-spanish.pdf" target="_blank" >SPANISH</a>
                             </br>
                             </br>
-                    <h3>Short Version</h3>
-                            <a class="btn secondary-btn" id="languages" href="documents/english/short-version-english.pdf" target="_blank" >ENGLISH</a>
-                            <a class="btn secondary-btn" id="languages" href="documents/spanish/short-version-spanish.pdf" target="_blank" >SPANISH</a>
+                    <h3>Pitch Deck</h3>
+                            <a class="btn secondary-btn" id="languages" href="documents/english/pitch-deck-english.pdf" target="_blank" >ENGLISH</a>
+                            <a class="btn secondary-btn" id="languages" href="documents/spanish/pitch-deck-spanish.pdf" target="_blank" >SPANISH</a>
                             </br>
                             </br>
+
+
+
                 </div>
                 <!-- End of .modal-body -->
             </div>

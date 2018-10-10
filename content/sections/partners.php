@@ -37,32 +37,36 @@
                         <!-- End of .item -->
                         
                         <div class="item">
-                            <img src="images/clients-slider/forbes-150x75.png" alt="Forbes Magnates logo">
+                            <img src="images/clients-slider/forbes-150x75.png" alt="Forbes logo">
                         </div>
                         <!-- End of .item -->
                         
                         <div class="item">
-                            <img src="images/clients-slider/hacker-150x75.png" alt="Hackernoon Magnates logo">
+                            <img src="images/clients-slider/trackICO-150x75.png" alt="TrackICO logo">
                         </div>
                         <!-- End of .item -->
                         
                         <div class="item">
-                            <img src="images/clients-slider/ninja-150x75.png" alt="CryptoNinjas Magnates logo">
+                            <img src="images/clients-slider/ninja-150x75.png" alt="CryptoNinjas logo">
                         </div>
                         <!-- End of .item -->
                         
                         <div class="item">
-                            <img src="images/clients-slider/SCMP_logo_01-150x75.png" alt="South China Morning Pool Magnates logo">
+                            <img src="images/clients-slider/SCMP_logo_01-150x75.png" alt="South China Morning Pool logo">
                         </div>
                         <!-- End of .item -->
                         
                         <div class="item">
-                            <img src="images/clients-slider/tecnodevel-logo-150x75.png" alt="Tecnodevel Magnates logo">
+                            <img src="images/clients-slider/tecnodevel-logo-150x75.png" alt="Tecnodevel logo">
                         </div>
                         <!-- End of .item -->
                         
                         <div class="item">
-                            <img src="images/clients-slider/token-150x75.png" alt="Tokentops Magnates logo">
+                            <img src="images/clients-slider/token-150x75.png" alt="Tokentops logo">
+                        </div>
+                        <!-- End of .item -->
+                        <div class="item">
+                            <img src="images/clients-slider/highCastle-150x75.png" alt="HigCastle logo">
                         </div>
                         <!-- End of .item -->
                     </div>

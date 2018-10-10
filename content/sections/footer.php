@@ -42,6 +42,17 @@
                                 <div class="footer-widget o-credit-cards">
                                     <img src="images/credit-cards/ethereum.ico" alt="Ethereum">
                                     <img src="images/credit-cards/bitcoin.ico" alt="Bitcoin">
+                                    <img src="images/credit-cards/bitcoin-cash.png" alt="Bitcoin Cash">
+                                    
+                                </div>
+                                <div class="footer-widget o-credit-cards">
+                                    <img src="images/credit-cards/bitcoin-gold.png" alt="Bitcoin Gold">
+                                    <img src="images/credit-cards/litecoin.png" alt="Litecoin">
+                                    <img src="images/credit-cards/dash.png" alt="Dash">
+                                </div>
+                                <div class="footer-widget o-credit-cards">
+                                    <img src="images/credit-cards/zcash.png" alt="Zcash">
+                                    <img src="images/credit-cards/dogecoin.png" alt="Dogecoin">
                                     <img src="images/credit-cards/paypal.png" alt="Paypal">
                                 </div>
                             </div>

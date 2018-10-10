@@ -50,7 +50,7 @@
 
                         <div class="tab-pane fade" id="product-tab-2" role="tabpanel" aria-labelledby="product-tab-2">
                             <div class="row align-items-center">
-                                <div class="col-md-6">
+                                <div class="col-md-6 text-left">
                                     <img src="images/products/custody.png" alt="product images" class="img-fluid">
                                 </div>
                                 <!-- End of .col-md-6 -->
@@ -95,7 +95,7 @@
                                     <!-- End of .o-details-with-title -->
                                 </div>
                                 <!-- End of .col-md-6 -->
-                                <a class="btn btn-primary btn-lg btn-block" style="margin-top: 20px;" href="#contact"><?php echo $buttonMoreInfo; ?></a>
+                                <a class="btn btn-primary btn-lg btn-block" style="margin-top: 20px;" href="#contact" target="_blank"><?php echo $buttonMoreInfo; ?></a>
                             </div>
                             <!-- End of .row -->
                         </div>
@@ -142,7 +142,7 @@
                                             <!-- End of .o-details-with-title -->
                                         </div>
                                         <!-- End of .col-md-6 -->
-                                        <a class="btn btn-primary btn-lg btn-block" style="margin-top: 20px;" href="#contact"><?php echo $buttonMoreInfo; ?></a>
+                                        <a class="btn btn-primary btn-lg btn-block" style="margin-top: 20px;" href="#contact" target="_blank"><?php echo $buttonMoreInfo; ?></a>
                                     </div>
                                     <!-- End of .row -->
                                 </div>

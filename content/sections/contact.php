@@ -10,11 +10,11 @@
                                         <i class="icon-Envelope3"></i><?php echo $contactMail; ?>
                                     </a>
                                 </div>
-                                <div class="o-c-info">
+                                <!--<div class="o-c-info">
                                     <a href="tel:925251029">
-                                        <i class="icon-Mobile"></i><?php echo $contactPhone; ?>
+                                        <i class="icon-Mobile"></i><?php //echo $contactPhone; ?>
                                     </a>
-                                </div>
+                                </div>-->
                                 <div class="o-c-info">
                                     <i class="icon-Store3"></i><?php echo $contactAdress; ?> 
                                     <br><?php echo $contactPostal; ?></div>

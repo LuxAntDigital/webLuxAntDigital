@@ -27,6 +27,6 @@
     <!-- wow js -->
     <script src="js/vendor/wow.min.js"></script>
     <!-- Custom js -->
-    <script src="js/main.min.js"></script>
+    <script src="js/main.js"></script>
     <!-- Google map -->
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD6Cn2XCz3_n_J57QSN_rw6gwtQDWQJ3MM&callback=initMap"></script>

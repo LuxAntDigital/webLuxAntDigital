@@ -128,16 +128,16 @@
                                     </div>
                                     <!-- End of .col-md-3 -->
 
-                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="col-xl-3 col-lg-4 col-md-6">
                                             <div class="o-common-card">
                                                 <div class="img-container">
-                                                    <img src="images/team/members/asier-belaza.png" alt="team member">
-                                                    <p><?php echo $memberDescription7; ?></p>
+                                                    <img src="images/team/members/spyros.png" alt="team member">
+                                                    <p><?php echo $memberDescription8; ?></p>
                                                 </div>
                                                 <!-- End of .img-container -->
-                                                <h5><?php echo $membersName7; ?>
-                                                    <span><?php echo $membersPosition7; ?></span>
-                                                    <a href="https://www.linkedin.com/in/asier-belaza-ortega-105a7494/" target="_blank" rel="noopener">
+                                                <h5><?php echo $membersName8; ?>
+                                                    <span><?php echo $membersPosition8; ?></span>
+                                                    <a href="https://www.linkedin.com/in/spyros-kekos-314458160/" target="_blank" rel="noopener">
                                                         <i class="icon-Linkedin"></i>
                                                     </a>
                                                 </h5>
@@ -149,13 +149,13 @@
                                         <div class="col-xl-3 col-lg-4 col-md-6">
                                             <div class="o-common-card">
                                                 <div class="img-container">
-                                                    <img src="images/team/members/spyros.png" alt="team member">
-                                                    <p><?php echo $memberDescription8; ?></p>
+                                                    <img src="images/team/members/tasos-oureilidis.jpg" alt="team member">
+                                                    <p><?php echo $memberDescription9; ?></p>
                                                 </div>
                                                 <!-- End of .img-container -->
-                                                <h5><?php echo $membersName7; ?>
-                                                    <span><?php echo $membersPosition8; ?></span>
-                                                    <a href="https://www.linkedin.com/in/spyros-kekos-314458160/" target="_blank" rel="noopener">
+                                                <h5><?php echo $membersName9; ?>
+                                                    <span><?php echo $membersPosition9; ?></span>
+                                                    <a href="https://www.linkedin.com/in/tasos-oureilidis-719603119/" target="_blank" rel="noopener">
                                                         <i class="icon-Linkedin"></i>
                                                     </a>
                                                 </h5>
@@ -194,6 +194,42 @@
                                     <div class="col-xl-3 col-lg-4 col-md-6">
                                         <div class="o-common-card">
                                             <div class="img-container">
+                                                <img src="images/team/members/firebreed.png" alt="team member">
+                                                <p><?php echo $advisorsDescription4; ?></p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5><?php echo $advisorsName4; ?>
+                                                <span><?php echo $advisorsPosition4; ?></span>
+                                                <a href="https://www.linkedin.com/in/david-akindele-5684b1168/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/cem-inan-unlu.png" alt="team member">
+                                                <p><?php echo $advisorsDescription5; ?></p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5><?php echo $advisorsName5; ?>
+                                                <span><?php echo $advisorsPosition5; ?></span>
+                                                <a href="http://www.linkedin.com/in/cem-inan-unlu-68a54114b" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
                                                 <img src="images/team/members/sergio-valcarcel-ramirez.png" alt="team member">
                                                 <p><?php echo $advisorsDescription2; ?></p>
                                             </div>
@@ -218,42 +254,6 @@
                                             <!-- End of .img-container -->
                                             <h5><?php echo $advisorsName3; ?>
                                                 <span><?php echo $advisorsPosition3; ?></span>
-                                                <a href="" target="_blank" rel="noopener">
-                                                    <i class="icon-Linkedin"></i>
-                                                </a>
-                                            </h5>
-                                        </div>
-                                        <!-- End of .o-common-card -->
-                                    </div>
-                                    <!-- End of .col-md-3 -->
-
-                                    <div class="col-xl-3 col-lg-4 col-md-6">
-                                        <div class="o-common-card">
-                                            <div class="img-container">
-                                                <img src="images/team/members/patricia-casado-fdez-de-carranza.png" alt="team member">
-                                                <p><?php echo $advisorsDescription4; ?></p>
-                                            </div>
-                                            <!-- End of .img-container -->
-                                            <h5><?php echo $advisorsName4; ?>
-                                                <span><?php echo $advisorsPosition4; ?></span>
-                                                <a href="https://www.linkedin.com/in/patriciacasadofdezdecarranza/" target="_blank" rel="noopener">
-                                                    <i class="icon-Linkedin"></i>
-                                                </a>
-                                            </h5>
-                                        </div>
-                                        <!-- End of .o-common-card -->
-                                    </div>
-                                    <!-- End of .col-md-3 -->
-
-                                    <div class="col-xl-3 col-lg-4 col-md-6">
-                                        <div class="o-common-card">
-                                            <div class="img-container">
-                                                <img src="images/team/members/laura-sanchez.png" alt="team member">
-                                                <p><?php echo $advisorsDescription5; ?></p>
-                                            </div>
-                                            <!-- End of .img-container -->
-                                            <h5><?php echo $advisorsName5; ?>
-                                                <span><?php echo $advisorsPosition5; ?></span>
                                                 <a href="" target="_blank" rel="noopener">
                                                     <i class="icon-Linkedin"></i>
                                                 </a>

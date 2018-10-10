@@ -46,7 +46,7 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="btn secondary-btn" href="https://luxantdigitalbank.com/buy.php?lang=<?php echo $langPanel ?>"><?php echo $buybutton; ?></a>
+                        <a class="btn secondary-btn" href="https://luxantdigitalbank.com/portfolio/index.php?lang=<?php echo $panel; ?>"><?php echo $loginButton; ?></a>
                     </li>
                     <li class="o-langualge">
                         <div class="dropdown text-xs-right ml-auto">
@@ -55,7 +55,7 @@
                                 <i class="fa fa-angle-down"></i>
                             </a>
                             <div class="dropdown-menu">
-                                <a class="dropdown-item" href="index.php?lang=en" <?php echo $langHiddenEn; ?>>En</a>
+                                <a class="dropdown-item" href="index.php?lang=english" <?php echo $langHiddenEn; ?>>En</a>
                                 <a class="dropdown-item" href="index.php?lang=es" <?php echo $langHiddenEs; ?>>Es</a>
                                 <!--<a class="dropdown-item" href="#">Ch</a> -->
                                 <a class="dropdown-item" href="index.php?lang=ru" <?php echo $langHiddenRu; ?>>Ru</a>

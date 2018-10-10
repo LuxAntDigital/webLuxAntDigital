@@ -36,14 +36,15 @@ La edición puede comenzar a partir de la línea 40 en adelante.
 */
 
 $language = "es"; //NO TOCAR ESTA LÍNEA - RIESGO DE MAL FUNCIONAMIENTO
+$panel = "es";
 
 
 
 //HEAD - Cabecera con metas y Título que muestra el navegador
 //===============================================================================
-$metaDescription = "Somos la primera ICO que busca la alternativa a la banca tradicional, luchamos por el derecho de todos. Lux Ant Digital devuelve el poder a las personas con la tecnología Blockchain y Smart Contract. ¡Trabajamos para vivir, no vivimos para trabajar!";
-$metaKeywords = "token, comprar tokens, banca, cryptomonedas, ICO, whitepaper, Alux, Lux, Lux Ant Digital, Lux Ant Digital Bank, comprar tokens, pre-sale, presale, banca de criptomonedas";
-$headTitle = "ICO Lux Ant Digital - El futuro descentralizado del la nueva Banca Electrónica";
+$metaDescription = "Somos la primera ICO que busca la alternativa a la banca tradicional, luchamos por el derecho de todos. Alux Bank devuelve el poder a las personas con la tecnología Blockchain y Smart Contract. ¡Trabajamos para vivir, no vivimos para trabajar!";
+$metaKeywords = "token, comprar tokens, banca, cryptomonedas, ICO, whitepaper, Alux, Alux Bank, Lux, Lux Ant Digital, Lux Ant Digital Bank, comprar tokens, pre-sale, presale, banca de criptomonedas";
+$headTitle = "ICO Alux Bank - El futuro descentralizado del la nueva Banca Electrónica";
 
 //-------------------------------------------------------------------------------
 
@@ -59,6 +60,7 @@ $blog = "Blog";
 $contact = "Contacto";
 
 $buybutton = "COMPRAR TOKENS";
+$loginButton = "INICIAR SESIÓN";
 
 //-------------------------------------------------------------------------------
 
@@ -71,10 +73,10 @@ $cabeceraBotones = "Descárga la documentación de la ICO";
 $playVideo = "REPRODUCIR VIDEO";
 $referral = "Referidos";
 
-$countdownTitle = "0.04€!! La pre venta de Tokens comienza en";
+$countdownTitle = "LA ICO ALUX BANK HA COMENZADO $0.18";
 $capital = "soft cap 10M - hard cap 25M";
-$promotion = "Comprar Tokens en Agosto te costará solo 0.04€!!";
-$smallLetters = "Tokens vendidos: 20.030.000";
+$promotion = "SUBMINISTRO TOTAL DE ALUX TOKENS 1 BILLÓN";
+$smallLetters = "Tokens vendidos: 24,750,545";
 $payMethod = "ACEPTAMOS LOS SIGUIENTES MÉTODOS DE PAGO";
 
 //-------------------------------------------------------------------------------
@@ -194,7 +196,7 @@ $date5Objetive2 = "Implementaciones generalizadas con más socios y desarrollado
 $roadmapDate6 = "2020 Q3/Q4";
 $date6Objetive1 = "Colaboración con Entidades Financieras";
 
-$roadmapDate7 = "2021: PLAN DE CONTINGENCIA";
+$roadmapDate7 = "2021";
 $date7Obetive = 'Seguimos una gestión de continuidad de negocio, para así, procesar el logro de la capacidad y mantenimiento de nuestra sociedad.';
 
 $roadmapDate8 = "+ 2022";
@@ -242,7 +244,7 @@ $content4Advantage3 = "Dividendos fijos anuales del 20%";
 //ABOUT US - Sobre el proyecto Lux Ant Digital
 //===============================================================================
 $aboutTitle = "Sobre nosotros";
-$aboutLine1 = "Lux Ant S.L. es una startup tecnológica que se centra en proyectos y desarrollos relacionados con las monedas digitales a través de compra y venta de Tokens.";
+$aboutLine1 = "Alux Bank es una startup tecnológica que se centra en proyectos y desarrollos relacionados con las monedas digitales a través de compra y venta de Tokens.";
 $aboutLine2 = "La ﬁlosofía de la compañía se basa en los siguientes principios:";
 $aboutPrinciples1 = "Somos el futuro: la moneda física del día a día desaparecerá en poco tiempo de nuestros bolsillos. ";
 $aboutPrinciples2 = "Eliminación de intermediarios: no es necesario un tercero en una transacción económica entre dos. ";
@@ -253,7 +255,7 @@ $aboutPrinciples4 = "Mejora la economía: apoyamos la economía alternativa que 
 //TEAM PLAYERS - Nuestro equipo y advisors
 //===============================================================================
 $teamTitle = "Nuestro Equipo";
-$teamSubtitle = "El equipo que transformará esta ICO en Banca de Cryptomonedas";
+$teamSubtitle = "";
 
 $operatingTeam = "OPERATING TEAM";
 $advisors = "ADVISORS";
@@ -291,6 +293,10 @@ $membersName8 = "Spyros Kekos";
 $membersPosition8 = "Comunity Manager";
 $memberDescription8 = "Comunity Manager";
 
+$membersName9 = " Tasos Oureilidis";
+$membersPosition9 = "Community Manager";
+$memberDescription9 = "Community Manager";
+
 //Advisors
 
 $advisorsName1 = "Juan Pablo Fernández Agüero";
@@ -305,13 +311,13 @@ $advisorsName3 = "Javer Melero García";
 $advisorsPosition3 = "Head of operations";
 $advisorsDescription3 = "Head of operations";
 
-$advisorsName4 = "Patricia Casado Fdez. de Carranza";
-$advisorsPosition4 = "Consultory &amp; nerworks";
-$advisorsDescription4 = "Especialista en captación y negociación de cuentas clave y en desarrollar nuevas lineas de negocio online. Más de quince años de experiencia en plataformas digitales.";
+$advisorsName4 = "David Akindele";
+$advisorsPosition4 = "ICO Advisor";
+$advisorsDescription4 = "ICO Advisor";
 
-$advisorsName5 = "Laura Sánchez";
-$advisorsPosition5 = "Head of legal &amp; financial";
-$advisorsDescription5 = "Head of legal &amp; financial";
+$advisorsName5 = "Cem Inan Unlu";
+$advisorsPosition5 = " ICO Expert";
+$advisorsDescription5 = " ICO Expert";
 
 $advisorsName6 = "Estefanía Mateo Vazquez";
 $advisorsPosition6 = "Business analyst";
@@ -359,11 +365,11 @@ $tokenProceedsValue6 = "Gastos de Administración: 8%";
 /*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 /**/                                                        $tokenStarts = "Inicio Token: 01/09/2018 - Final Token: 30/11/2018";                                                                /**/  
 /*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-/**/ $rowTitle1 = "Precio Original";      /**/ $row1Column1 = "$0,20";            /**/ $row1Column2 = "$0,20";             /**/ $row1Column3 = "$0,20";         /**/ $row1Column4 = "$0,20";    /**/ 
+/**/ $rowTitle1 = "Precio Original";      /**/ $row1Column1 = "$0.20";            /**/ $row1Column2 = "$0.20";             /**/ $row1Column3 = "$0.20";         /**/ $row1Column4 = "$0.20";    /**/ 
 /*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/      
 /**/ $rowTitle2 = "Descuento %";          /**/ $row2Column1 = "70%";             /**/ $row2Column2 = "40%";              /**/ $row2Column3 = "10%";          /**/ $row2Column4 = "0%";          /**/ 
 /*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/      
-/**/ $rowTitle3 = "Precio Token";         /**/ $row3Column1 = "$0,06";            /**/ $row3Column2 = "$0,12";             /**/ $row3Column3 = "$0,18";         /**/ $row3Column4 = "$0,20";    /**/ 
+/**/ $rowTitle3 = "Precio Token";         /**/ $row3Column1 = "$0.06";            /**/ $row3Column2 = "$0.12";             /**/ $row3Column3 = "$0.18";         /**/ $row3Column4 = "$0.20";    /**/ 
 /*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 /**/ $rowTitle4 = "Fases";                /**/ $row4Column1 = "Inicio Token";    /**/ $row4Column2 = "Fase 2";           /**/ $row4Column3 = "Fase 3";       /**/ $row4Column4 = "Final Token"; /**/ 
 /*------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
@@ -405,12 +411,12 @@ $footerColumnFundingContent4 = "Token";
 
 $footerColumnPayMethods = "ACEPTAMOS LOS SIGUIENTES MÉTODOS DE PAGO";
 
-$footerColumnLuxAntDigital = "LUX ANT DIGITAL";
-$footerColumnLuxAntDigitalContent1 = "Lux Ant Digital, Comprar Tokens";
-$footerColumnLuxAntDigitalContent2 = "Lux Ant Digital, Tokens Alux"; 
-$footerColumnLuxAntDigitalContent3 = "Lux Ant Digital, Banca Electrónica";
-$footerColumnLuxAntDigitalContent4 = "Lux Ant Digital, Rentabilidad";
-$footerColumnLuxAntDigitalContent5 = "Lux Ant Digital, Ethereum Wallet";
+$footerColumnLuxAntDigital = "ALUX BANK";
+$footerColumnLuxAntDigitalContent1 = "ALUX BANK, Comprar Tokens";
+$footerColumnLuxAntDigitalContent2 = "ALUX BANK, Tokens Alux"; 
+$footerColumnLuxAntDigitalContent3 = "ALUX BANK, Banca Electrónica";
+$footerColumnLuxAntDigitalContent4 = "ALUX BANK, Rentabilidad";
+$footerColumnLuxAntDigitalContent5 = "ALUX BANK, Ethereum Wallet";
 
 $footerCopyright = "Copyright &copy; 2018. Todos los derechos reservados por ";
 $footerTermsandConditions = "Términos de uso";

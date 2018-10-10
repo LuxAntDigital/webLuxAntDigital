@@ -11,8 +11,8 @@
                         <div class="col-12 text-center">
                             <div class="roadmap-box active">
                                 <div class="o-common-card">
-                                    <h5 class="text-center">
-                                        <span><?php echo $roadmapDate1; ?></span></h5>
+                                    <h3 class="text-center">
+                                        <span><?php echo $roadmapDate1; ?></span></h3>
                                         <ul>
                                             <li style="text-align: left;"><?php echo $dateObjetive1; ?></li>
                                             <li style="text-align: left;"><?php echo $dateObjetive2; ?></li>
@@ -46,8 +46,8 @@
                         <div class="col-12 text-center">
                             <div class="roadmap-box roadmap-right">
                                 <div class="o-common-card">
-                                    <h5 class="text-center">
-                                        <span><?php echo $roadmapDate2; ?></span></h5>
+                                    <h3 class="text-center">
+                                        <span><?php echo $roadmapDate2; ?></span></h3>
                                         <ul>
                                             <li style="text-align: left;"><?php echo $date2Objetive1; ?></li>
                                             <li style="text-align: left;"><?php echo $date2Objetive2; ?></li>
@@ -78,8 +78,8 @@
                         <div class="col-12 text-center">
                             <div class="roadmap-box">
                                 <div class="o-common-card">
-                                    <h5 class="text-center">
-                                        <span><?php echo $roadmapDate3; ?></span></h5>
+                                    <h3 class="text-center">
+                                        <span><?php echo $roadmapDate3; ?></span></h3>
                                         <ul>
                                             <li style="text-align: left;"><?php echo $date3Objetive1; ?></li>
                                             <li style="text-align: left;"><?php echo $date3Objetive2; ?></li>
@@ -109,8 +109,8 @@
                         <div class="col-12 text-center">
                             <div class="roadmap-box roadmap-right">
                                 <div class="o-common-card">
-                                    <h5 class="text-center">
-                                        <span><?php echo $roadmapDate4; ?></span></h5>
+                                    <h3 class="text-center">
+                                        <span><?php echo $roadmapDate4; ?></span></h3>
                                         <ul>
                                             <li style="text-align: left;"><?php echo $date4Objetive1; ?></li>
                                             <li style="text-align: left;"><?php echo $date4Objetive2; ?></li>
@@ -140,8 +140,8 @@
                         <div class="col-12 text-center">
                             <div class="roadmap-box roadmap-left">
                                 <div class="o-common-card">
-                                    <h5 class="text-center">
-                                        <span><?php echo $roadmapDate5; ?></span></h5>
+                                    <h3 class="text-center">
+                                        <span><?php echo $roadmapDate5; ?></span></h3>
                                         <ul>
                                             <li style="text-align: left;"><?php echo $date5Objetive1; ?></li>
                                             <li style="text-align: left;"><?php echo $date5Objetive2; ?></li>
@@ -169,8 +169,8 @@
                         <div class="col-12 text-center">
                             <div class="roadmap-box roadmap-right">
                                 <div class="o-common-card">
-                                    <h5 class="text-center">
-                                        <span><?php echo $roadmapDate6; ?></span></h5>
+                                    <h3 class="text-center">
+                                        <span><?php echo $roadmapDate6; ?></span></h3>
                                         <ul>
                                             <li style="text-align: left;"><?php echo $date6Objetive; ?></li>
                                         </ul>
@@ -197,8 +197,8 @@
                         <div class="col-12 text-center">
                             <div class="roadmap-box roadmap-left">
                                 <div class="o-common-card">
-                                    <h5 class="text-center">
-                                        <span><?php echo $roadmapDate7; ?></span></h5>
+                                    <h3 class="text-center">
+                                        <span><?php echo $roadmapDate7; ?></span></h3>
                                         <ul>
                                             <li style="text-align: left;"><?php echo $date7Objetive; ?></li>
                                         </ul>
@@ -225,8 +225,8 @@
                         <div class="col-12 text-center">
                             <div class="roadmap-box roadmap-right">
                                 <div class="o-common-card">
-                                    <h5 class="text-center">
-                                        <span><?php echo $roadmapDate8; ?></span></h5>
+                                    <h3 class="text-center">
+                                        <span><?php echo $roadmapDate8; ?></span></h3>
                                         <ul>
                                             <li style="text-align: left;"><?php echo $date8Objetive; ?></li>
                                         </ul>
@@ -253,8 +253,8 @@
                         <div class="col-12 text-center">
                             <div class="roadmap-box roadmap-left">
                                 <div class="o-common-card">
-                                    <h5 class="text-center">
-                                        <span><?php echo $roadmapDate9; ?></span></h5>
+                                    <h3 class="text-center">
+                                        <span><?php echo $roadmapDate9; ?></span></h3>
                                         <ul>
                                             <li style="text-align: left;"><?php echo $date9Objetive; ?></li>
                                         </ul>

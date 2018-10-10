@@ -1,0 +1,14 @@
+<?php 
+    require_once('encryption_config');
+
+    function encriptar($cadena){
+        $salida = FALSE;
+        $prefijo = hash('sha256', CLAVE_SECRETA);
+        $sufijo = substr(hash('sha256', SUBCLAVE_SECRETA), 0, 16);
+
+        $salida = openssl_encrypt($cadena, METODO, $prefijo, 0, $sufijo);
+        $salida = base64_encode($salida);
+
+        return $salida;
+    }
+?>
